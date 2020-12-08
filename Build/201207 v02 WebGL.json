@@ -1,0 +1,16 @@
+{
+"companyName": "STS350Buoys",
+"productName": "STS350Project",
+"productVersion": "1.0",
+"dataUrl": "201207 v02 WebGL.data.unityweb",
+"wasmCodeUrl": "201207 v02 WebGL.wasm.code.unityweb",
+"wasmFrameworkUrl": "201207 v02 WebGL.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.16f1"
+}
